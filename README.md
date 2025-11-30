@@ -104,4 +104,5 @@ Jika pengguna memasukkan input selain 1–5 → program menampilkan “Pilihan t
 ## Program
 
 ![Gambar2](ss2.png)
-![Gambar3](ss3.)
+![Gambar3](ss3.png)
+
